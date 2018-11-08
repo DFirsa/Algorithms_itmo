@@ -1,0 +1,6 @@
+insert 2
+insert 256
+insert -1000123
+insert 674
+delete 674
+exists -100012
