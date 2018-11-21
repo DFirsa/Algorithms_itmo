@@ -1,8 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/com/company/lab5/MultiMap.java" line="173" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="7a25d731-2029-4ebd-9c9f-ffe47660d287" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/company/lab5/Set.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multimap.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/lab4/PriorityQueueV2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/lab6/quacke.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/company/lab5/LinkedMap.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/company/lab5/LinkedMap.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/company/lab5/Map.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/company/lab5/Map.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/company/lab5/MultyMap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/company/lab5/Set.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/company/lab5/Set.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/company/lab5/set.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/lab5/LinkedMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/lab5/LinkedMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/lab5/Map.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/lab5/Map.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/lab5/MultyMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/lab5/MultiMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/lab5/Set.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/lab5/Set.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -34,51 +50,54 @@
     <session id="-1416458437">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="22" />
+          <entry key="project.closed" value="25" />
           <entry key="project.open.time.10" value="1" />
-          <entry key="project.open.time.11" value="2" />
-          <entry key="project.open.time.12" value="9" />
-          <entry key="project.open.time.13" value="1" />
-          <entry key="project.open.time.14" value="2" />
+          <entry key="project.open.time.11" value="4" />
+          <entry key="project.open.time.12" value="10" />
+          <entry key="project.open.time.13" value="2" />
+          <entry key="project.open.time.14" value="4" />
           <entry key="project.open.time.15" value="3" />
           <entry key="project.open.time.16" value="1" />
           <entry key="project.open.time.17" value="2" />
           <entry key="project.open.time.6" value="1" />
-          <entry key="project.open.time.8" value="1" />
+          <entry key="project.open.time.8" value="2" />
           <entry key="project.open.time.9" value="2" />
-          <entry key="project.opened" value="25" />
+          <entry key="project.opened" value="32" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="class" value="8" />
-          <entry key="dummy" value="33" />
-          <entry key="in" value="120" />
-          <entry key="java" value="26192" />
+          <entry key="dummy" value="34" />
+          <entry key="in" value="786" />
+          <entry key="java" value="39377" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CLASS" value="8" />
-          <entry key="JAVA" value="26192" />
-          <entry key="PLAIN_TEXT" value="33" />
+          <entry key="Enforced Plain Text" value="666" />
+          <entry key="JAVA" value="39377" />
+          <entry key="PLAIN_TEXT" value="34" />
           <entry key="VTL" value="120" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="2" />
-          <entry key="in" value="8" />
-          <entry key="java" value="58" />
-          <entry key="out" value="3" />
+          <entry key="in" value="13" />
+          <entry key="java" value="83" />
+          <entry key="out" value="6" />
+          <entry key="ыьерюшт" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="2" />
-          <entry key="JAVA" value="58" />
-          <entry key="PLAIN_TEXT" value="3" />
-          <entry key="VTL" value="8" />
+          <entry key="Enforced Plain Text" value="1" />
+          <entry key="JAVA" value="83" />
+          <entry key="PLAIN_TEXT" value="7" />
+          <entry key="VTL" value="12" />
         </counts>
       </usages-collector>
     </session>
@@ -89,64 +108,28 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/lab4/PriorityQueue.java">
+        <entry file="file://$PROJECT_DIR$/src/com/company/lab5/MultiMap.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="595">
-              <caret line="39" selection-start-line="39" selection-end-line="39" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="136">
+              <caret line="35" column="35" selection-start-line="35" selection-start-column="35" selection-end-line="35" selection-end-column="35" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/company/lab5/Set.java">
+        <entry file="file://$PROJECT_DIR$/multimap.out">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="41">
-              <caret line="45" column="5" lean-forward="true" selection-start-line="45" selection-start-column="5" selection-end-line="45" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="68">
+              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/lab5/Map.java">
+        <entry file="file://$PROJECT_DIR$/multimap.in">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/lab5/LinkedMap.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/lab5/MultyMap.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/lab4/Postfix.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1326">
-              <caret line="80" selection-start-line="80" selection-end-line="80" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="204">
+              <caret line="12" column="7" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -160,9 +143,21 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Sys</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/com/company/lab5/Set.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/com/company/lab4/PriorityQueueV2.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/com/company/lab5/MultiMap.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/com/company/lab5/LinkedMap.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/com/company/lab5/Map.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -192,7 +187,16 @@
         <option value="$PROJECT_DIR$/src/com/company/lab4/PriorityQueue.java" />
         <option value="$PROJECT_DIR$/src/com/company/set.in" />
         <option value="$PROJECT_DIR$/src/com/company/lab5/set.in" />
+        <option value="$PROJECT_DIR$/src/com/company/lab4/PriorityQueueV2.java" />
+        <option value="$PROJECT_DIR$/src/com/company/lab5/set2.java" />
+        <option value="$PROJECT_DIR$/src/com/company/lab6/quacke.java" />
+        <option value="$PROJECT_DIR$/src/com/company/lab5/MySet.java" />
         <option value="$PROJECT_DIR$/src/com/company/lab5/Set.java" />
+        <option value="$PROJECT_DIR$/src/com/company/lab5/Map.java" />
+        <option value="$PROJECT_DIR$/src/com/company/lab5/LinkedMap.java" />
+        <option value="$PROJECT_DIR$/linkedmap.in" />
+        <option value="$PROJECT_DIR$/multimap.in" />
+        <option value="$PROJECT_DIR$/src/com/company/lab5/MultiMap.java" />
       </list>
     </option>
   </component>
@@ -209,7 +213,7 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="948" />
+    <option name="x" value="-12" />
     <option name="width" value="981" />
     <option name="height" value="1032" />
   </component>
@@ -219,7 +223,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -250,12 +253,13 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541674423243" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542835457252" />
     <property name="last_opened_file_path" value="C:/Program Files/Git/bin/git.exe" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
@@ -279,13 +283,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Set">
-    <configuration name="Brackets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.lab4.Brackets" />
+  <component name="RunManager" selected="Application.MultiMap">
+    <configuration name="LinkedMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.lab5.LinkedMap" />
       <module name="Algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.lab4.*" />
+          <option name="PATTERN" value="com.company.lab5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -293,12 +297,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Postfix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.lab4.Postfix" />
+    <configuration name="Map" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.lab5.Map" />
       <module name="Algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.lab4.*" />
+          <option name="PATTERN" value="com.company.lab5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -306,12 +310,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PriorityQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.lab4.PriorityQueue" />
+    <configuration name="MultiMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.lab5.MultiMap" />
       <module name="Algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.lab4.*" />
+          <option name="PATTERN" value="com.company.lab5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -319,12 +323,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PriorityQueue_v1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.lab4.PriorityQueue_v1" />
+    <configuration name="MySet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.lab5.MySet" />
       <module name="Algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.lab4.*" />
+          <option name="PATTERN" value="com.company.lab5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -346,19 +350,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Brackets" />
-      <item itemvalue="Application.Postfix" />
-      <item itemvalue="Application.PriorityQueue_v1" />
-      <item itemvalue="Application.PriorityQueue" />
       <item itemvalue="Application.Set" />
+      <item itemvalue="Application.Map" />
+      <item itemvalue="Application.MySet" />
+      <item itemvalue="Application.MultiMap" />
+      <item itemvalue="Application.LinkedMap" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MultiMap" />
+        <item itemvalue="Application.LinkedMap" />
+        <item itemvalue="Application.Map" />
         <item itemvalue="Application.Set" />
-        <item itemvalue="Application.PriorityQueue" />
-        <item itemvalue="Application.PriorityQueue_v1" />
-        <item itemvalue="Application.Postfix" />
-        <item itemvalue="Application.Brackets" />
+        <item itemvalue="Application.MySet" />
       </list>
     </recent_temporary>
   </component>
@@ -396,13 +400,20 @@
       <workItem from="1540992076898" duration="5005000" />
       <workItem from="1541176331558" duration="5457000" />
       <workItem from="1541578348373" duration="6376000" />
-      <workItem from="1541690358900" duration="1129000" />
+      <workItem from="1541690358900" duration="3572000" />
+      <workItem from="1542014935465" duration="1037000" />
+      <workItem from="1542179471919" duration="2476000" />
+      <workItem from="1542182393043" duration="86000" />
+      <workItem from="1542184239400" duration="19038000" />
+      <workItem from="1542536130355" duration="29373000" />
+      <workItem from="1542727336383" duration="16222000" />
+      <workItem from="1542783820395" duration="17861000" />
     </task>
     <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="142340000" />
+    <option name="totallyTimeSpent" value="230876000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -417,7 +428,7 @@
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49627793" visible="true" weight="0.20161943" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49627793" visible="true" weight="0.18137652" />
       <window_info id="Structure" order="1" sideWeight="0.5037221" side_tool="true" weight="0.26882592" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -425,8 +436,8 @@
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" sideWeight="0.5037221" side_tool="true" weight="0.26882592" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3291815" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49959514" weight="0.38790035" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.0" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49959514" visible="true" weight="0.3291815" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3985765" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -435,7 +446,7 @@
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.3291815" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50040483" side_tool="true" weight="0.28291816" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.3291815" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.0" />
       <window_info anchor="bottom" id="Inspection Results" order="12" weight="0.3291815" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.24939272" />
@@ -522,37 +533,10 @@
     <entry file="file://$PROJECT_DIR$/src/com/company/lab4/brackets.in" />
     <entry file="file://$PROJECT_DIR$/src/com/company/lab4/brackets.out" />
     <entry file="file://$PROJECT_DIR$/fhnxfgna.in" />
-    <entry file="file://$PROJECT_DIR$/src/com/company/lab4/Brackets.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="51" column="20" selection-start-line="51" selection-start-column="20" selection-end-line="51" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../Algorithms/src/com/company/lab4/PriorityQueue.java" />
     <entry file="file://$PROJECT_DIR$/priorityqueue.in" />
     <entry file="file://$PROJECT_DIR$/priorityqueue.out" />
     <entry file="file://$PROJECT_DIR$/src/com/company/lab4/PriorityQueue_v1.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/company/lab3/RadixSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1071">
-          <caret line="66" column="16" selection-start-line="66" selection-start-column="16" selection-end-line="66" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/lab4/Stack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="24" column="12" selection-start-line="24" selection-start-column="12" selection-end-line="24" selection-end-column="12" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/lab4/Queue.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="480">
@@ -560,19 +544,92 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/lab3/HeapSort.java">
+    <entry file="file://$PROJECT_DIR$/src/com/company/set.in" />
+    <entry file="file://$PROJECT_DIR$/src/com/company/lab5/set.in" />
+    <entry file="file://$PROJECT_DIR$/src/com/company/lab3/RadixSort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="29" column="36" selection-start-line="29" selection-start-column="36" selection-end-line="29" selection-end-column="36" />
+        <state relative-caret-position="503">
+          <caret line="66" column="16" selection-start-line="66" selection-start-column="16" selection-end-line="66" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/set.in" />
-    <entry file="file://$PROJECT_DIR$/src/com/company/lab5/set.in" />
+    <entry file="file://$PROJECT_DIR$/src/com/company/lab3/HeapSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="46" column="16" lean-forward="true" selection-start-line="46" selection-start-column="16" selection-end-line="46" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/lab4/Postfix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="80" selection-start-line="80" selection-end-line="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/lab5/set2.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/company/lab4/PriorityQueueV2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="318">
+          <caret line="33" column="47" selection-start-line="33" selection-start-column="47" selection-end-line="33" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/lab6/quacke.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="26" column="5" lean-forward="true" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/lab5/MySet.java" />
     <entry file="file://$PROJECT_DIR$/src/com/company/lab4/PriorityQueue.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="595">
           <caret line="39" selection-start-line="39" selection-end-line="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/lab4/Stack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="24" column="12" selection-start-line="24" selection-start-column="12" selection-end-line="24" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/lab4/Brackets.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="833">
+          <caret line="51" column="20" selection-start-line="51" selection-start-column="20" selection-end-line="51" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/map.in" />
+    <entry file="file://$PROJECT_DIR$/smth.in" />
+    <entry file="file://$PROJECT_DIR$/src/com/company/lab5/Set.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="106" column="43" selection-start-line="106" selection-start-column="43" selection-end-line="106" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/linkemap.in">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/linkedmap.out">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/lab5/LinkedMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="497">
+          <caret line="170" lean-forward="true" selection-start-line="170" selection-end-line="170" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -581,42 +638,39 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/lab5/Map.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/lab5/LinkedMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/lab5/MultyMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/lab4/Postfix.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1326">
-          <caret line="80" selection-start-line="80" selection-end-line="80" />
+        <state relative-caret-position="-370">
+          <caret line="85" column="22" lean-forward="true" selection-start-line="85" selection-start-column="22" selection-end-line="85" selection-end-column="22" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/lab5/Set.java">
+    <entry file="file://$PROJECT_DIR$/linkedmap.in">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="41">
-          <caret line="45" column="5" lean-forward="true" selection-start-line="45" selection-start-column="5" selection-end-line="45" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="119">
+          <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/multimap.in">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="7" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/lab5/MultiMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="35" column="35" selection-start-line="35" selection-start-column="35" selection-end-line="35" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/multimap.out">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>
