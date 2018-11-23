@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7a25d731-2029-4ebd-9c9f-ffe47660d287" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/multimap.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/lab6/quacke.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/lab5/MultiMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/company/lab5/set.in" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/lab5/MultyMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/lab5/MultiMap.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -291,7 +289,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542962424423" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542985401860" />
     <property name="last_opened_file_path" value="C:/Program Files/Git/bin/git.exe" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
@@ -439,7 +437,7 @@
       <workItem from="1542184239400" duration="19038000" />
       <workItem from="1542536130355" duration="29373000" />
       <workItem from="1542727336383" duration="16222000" />
-      <workItem from="1542783820395" duration="34782000" />
+      <workItem from="1542783820395" duration="35167000" />
     </task>
     <task id="LOCAL-00002" summary="5 lab">
       <created>1542835520112</created>
@@ -448,11 +446,18 @@
       <option name="project" value="LOCAL" />
       <updated>1542835520112</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="5 lab">
+      <created>1542983506714</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1542983506714</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="247797000" />
+    <option name="totallyTimeSpent" value="248182000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -465,7 +470,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49627793" visible="true" weight="0.18137652" />
       <window_info id="Structure" order="1" sideWeight="0.5037221" side_tool="true" weight="0.26882592" />
