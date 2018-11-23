@@ -1,24 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/src/com/company/lab5/MultiMap.java" line="173" />
+    <bookmark url="file://$PROJECT_DIR$/src/com/company/lab5/MultiMap.java" line="17" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7a25d731-2029-4ebd-9c9f-ffe47660d287" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/multimap.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/lab4/PriorityQueueV2.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/company/lab6/quacke.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/company/lab5/LinkedMap.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/company/lab5/LinkedMap.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/company/lab5/Map.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/company/lab5/Map.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/company/lab5/MultyMap.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/company/lab5/Set.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/company/lab5/Set.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/company/lab5/set.in" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/lab5/LinkedMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/lab5/LinkedMap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/lab5/Map.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/lab5/Map.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/company/lab5/MultyMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/lab5/MultiMap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/lab5/Set.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/lab5/Set.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -70,15 +61,16 @@
           <entry key="class" value="8" />
           <entry key="dummy" value="34" />
           <entry key="in" value="786" />
-          <entry key="java" value="39377" />
+          <entry key="java" value="41727" />
+          <entry key="txt" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CLASS" value="8" />
           <entry key="Enforced Plain Text" value="666" />
-          <entry key="JAVA" value="39377" />
-          <entry key="PLAIN_TEXT" value="34" />
+          <entry key="JAVA" value="41727" />
+          <entry key="PLAIN_TEXT" value="43" />
           <entry key="VTL" value="120" />
         </counts>
       </usages-collector>
@@ -86,7 +78,7 @@
         <counts>
           <entry key="class" value="2" />
           <entry key="in" value="13" />
-          <entry key="java" value="83" />
+          <entry key="java" value="86" />
           <entry key="out" value="6" />
           <entry key="ыьерюшт" value="1" />
         </counts>
@@ -95,7 +87,7 @@
         <counts>
           <entry key="CLASS" value="2" />
           <entry key="Enforced Plain Text" value="1" />
-          <entry key="JAVA" value="83" />
+          <entry key="JAVA" value="86" />
           <entry key="PLAIN_TEXT" value="7" />
           <entry key="VTL" value="12" />
         </counts>
@@ -110,8 +102,41 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/company/lab5/MultiMap.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="35" column="35" selection-start-line="35" selection-start-column="35" selection-end-line="35" selection-end-column="35" />
+            <state relative-caret-position="96">
+              <caret line="208" column="58" selection-start-line="208" selection-start-column="58" selection-end-line="208" selection-end-column="58" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/lab6/quacke.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/lab5/Map.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="111" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/lab5/Set.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="17" column="4" lean-forward="true" selection-start-line="17" selection-start-column="4" selection-end-line="21" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -119,8 +144,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/multimap.out">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+            <state relative-caret-position="51">
+              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
             </state>
           </provider>
         </entry>
@@ -128,8 +153,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/multimap.in">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="7" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+            <state relative-caret-position="136">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
             </state>
           </provider>
         </entry>
@@ -189,7 +214,6 @@
         <option value="$PROJECT_DIR$/src/com/company/lab5/set.in" />
         <option value="$PROJECT_DIR$/src/com/company/lab4/PriorityQueueV2.java" />
         <option value="$PROJECT_DIR$/src/com/company/lab5/set2.java" />
-        <option value="$PROJECT_DIR$/src/com/company/lab6/quacke.java" />
         <option value="$PROJECT_DIR$/src/com/company/lab5/MySet.java" />
         <option value="$PROJECT_DIR$/src/com/company/lab5/Set.java" />
         <option value="$PROJECT_DIR$/src/com/company/lab5/Map.java" />
@@ -197,6 +221,7 @@
         <option value="$PROJECT_DIR$/linkedmap.in" />
         <option value="$PROJECT_DIR$/multimap.in" />
         <option value="$PROJECT_DIR$/src/com/company/lab5/MultiMap.java" />
+        <option value="$PROJECT_DIR$/src/com/company/lab6/quacke.java" />
       </list>
     </option>
   </component>
@@ -249,6 +274,13 @@
               <item name="company" type="462c0819:PsiDirectoryNode" />
               <item name="lab5" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Algorithms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithms_2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="company" type="462c0819:PsiDirectoryNode" />
+              <item name="lab6" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -259,7 +291,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542835457252" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542962424423" />
     <property name="last_opened_file_path" value="C:/Program Files/Git/bin/git.exe" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
@@ -407,13 +439,20 @@
       <workItem from="1542184239400" duration="19038000" />
       <workItem from="1542536130355" duration="29373000" />
       <workItem from="1542727336383" duration="16222000" />
-      <workItem from="1542783820395" duration="17861000" />
+      <workItem from="1542783820395" duration="34782000" />
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="5 lab">
+      <created>1542835520112</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1542835520112</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="230876000" />
+    <option name="totallyTimeSpent" value="247797000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -437,7 +476,7 @@
       <window_info id="Favorites" order="6" sideWeight="0.5037221" side_tool="true" weight="0.26882592" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.0" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49959514" visible="true" weight="0.3291815" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49959514" visible="true" weight="0.3505338" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3985765" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -446,7 +485,7 @@
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.3291815" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50040483" side_tool="true" weight="0.28291816" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.0" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.3291815" />
       <window_info anchor="bottom" id="Inspection Results" order="12" weight="0.3291815" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.24939272" />
@@ -464,6 +503,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="5 lab" />
+    <option name="LAST_COMMIT_MESSAGE" value="5 lab" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
@@ -575,13 +618,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/lab6/quacke.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="26" column="5" lean-forward="true" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/lab5/MySet.java" />
     <entry file="file://$PROJECT_DIR$/src/com/company/lab4/PriorityQueue.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -606,16 +642,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/map.in" />
     <entry file="file://$PROJECT_DIR$/smth.in" />
-    <entry file="file://$PROJECT_DIR$/src/com/company/lab5/Set.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="106" column="43" selection-start-line="106" selection-start-column="43" selection-end-line="106" selection-end-column="43" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/linkemap.in">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -636,16 +662,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/lab5/Map.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-370">
-          <caret line="85" column="22" lean-forward="true" selection-start-line="85" selection-start-column="22" selection-end-line="85" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/linkedmap.in">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -653,24 +669,51 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/lab5/Map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="111" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/multimap.in">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="7" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+        <state relative-caret-position="136">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/lab5/Set.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="17" column="4" lean-forward="true" selection-start-line="17" selection-start-column="4" selection-end-line="21" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/lab6/quacke.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/lab5/MultiMap.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="35" column="35" selection-start-line="35" selection-start-column="35" selection-end-line="35" selection-end-column="35" />
+        <state relative-caret-position="96">
+          <caret line="208" column="58" selection-start-line="208" selection-start-column="58" selection-end-line="208" selection-end-column="58" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/multimap.out">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        <state relative-caret-position="51">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
