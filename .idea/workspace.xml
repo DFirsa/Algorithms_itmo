@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/src/com/company/lab5/MultiMap.java" line="17" />
-  </component>
   <component name="ChangeListManager">
     <list default="true" id="7a25d731-2029-4ebd-9c9f-ffe47660d287" name="Default Changelist" comment="5 lab">
       <change afterPath="$PROJECT_DIR$/src/com/company/lab6/CheckTree.java" afterDir="false" />
@@ -59,16 +56,16 @@
           <entry key="class" value="8" />
           <entry key="dummy" value="34" />
           <entry key="in" value="786" />
-          <entry key="java" value="44035" />
-          <entry key="txt" value="37" />
+          <entry key="java" value="44036" />
+          <entry key="txt" value="90" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CLASS" value="8" />
           <entry key="Enforced Plain Text" value="666" />
-          <entry key="JAVA" value="44035" />
-          <entry key="PLAIN_TEXT" value="71" />
+          <entry key="JAVA" value="44036" />
+          <entry key="PLAIN_TEXT" value="124" />
           <entry key="VTL" value="120" />
         </counts>
       </usages-collector>
@@ -76,7 +73,7 @@
         <counts>
           <entry key="class" value="2" />
           <entry key="in" value="13" />
-          <entry key="java" value="90" />
+          <entry key="java" value="91" />
           <entry key="out" value="6" />
           <entry key="ыьерюшт" value="1" />
         </counts>
@@ -85,7 +82,7 @@
         <counts>
           <entry key="CLASS" value="2" />
           <entry key="Enforced Plain Text" value="1" />
-          <entry key="JAVA" value="90" />
+          <entry key="JAVA" value="91" />
           <entry key="PLAIN_TEXT" value="7" />
           <entry key="VTL" value="12" />
         </counts>
@@ -97,15 +94,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/company/lab5/MultiMap.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3961">
-              <caret line="236" column="13" selection-start-line="236" selection-start-column="13" selection-end-line="236" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/company/lab6/HeightTree.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -115,6 +103,15 @@
                 <element signature="e#281#282#0" expanded="true" />
                 <element signature="e#323#324#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/company/lab5/MultiMap.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="493">
+              <caret line="29" column="19" lean-forward="true" selection-start-line="29" selection-start-column="19" selection-end-line="29" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -160,7 +157,6 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/com/company/lab5/Set.java" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/src/com/company/lab5/MultiMap.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/com/company/lab5/LinkedMap.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/com/company/lab5/Map.java" root0="SKIP_INSPECTION" />
   </component>
@@ -201,8 +197,8 @@
         <option value="$PROJECT_DIR$/linkedmap.in" />
         <option value="$PROJECT_DIR$/multimap.in" />
         <option value="$PROJECT_DIR$/src/com/company/lab6/quacke.java" />
-        <option value="$PROJECT_DIR$/src/com/company/lab5/MultiMap.java" />
         <option value="$PROJECT_DIR$/src/com/company/lab6/HeightTree.java" />
+        <option value="$PROJECT_DIR$/src/com/company/lab5/MultiMap.java" />
       </list>
     </option>
   </component>
@@ -265,7 +261,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543164720651" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543165561014" />
     <property name="last_opened_file_path" value="C:/Program Files/Git/bin/git.exe" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
@@ -523,7 +519,7 @@
       <workItem from="1542184239400" duration="19038000" />
       <workItem from="1542536130355" duration="29373000" />
       <workItem from="1542727336383" duration="16222000" />
-      <workItem from="1542783820395" duration="51343000" />
+      <workItem from="1542783820395" duration="52088000" />
     </task>
     <task id="LOCAL-00002" summary="5 lab">
       <created>1542835520112</created>
@@ -560,11 +556,25 @@
       <option name="project" value="LOCAL" />
       <updated>1543150140802</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="5 lab">
+      <created>1543164689442</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1543164689442</updated>
+    </task>
+    <task id="LOCAL-00008" summary="update MultiMap">
+      <created>1543165036589</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1543165036589</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="264358000" />
+    <option name="totallyTimeSpent" value="265103000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -869,8 +879,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/lab5/MultiMap.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3961">
-          <caret line="236" column="13" selection-start-line="236" selection-start-column="13" selection-end-line="236" selection-end-column="13" />
+        <state relative-caret-position="493">
+          <caret line="29" column="19" lean-forward="true" selection-start-line="29" selection-start-column="19" selection-end-line="29" selection-end-column="19" />
         </state>
       </provider>
     </entry>
