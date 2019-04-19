@@ -9,19 +9,14 @@ public class maxflow {
     static PrintWriter out;
 
     static class Graph{
-        ArrayList<Integer>[] graph;
         int[][] graphVal;
         long flow = 0;
         int finishPoint;
         long min = Long.MAX_VALUE;
 
         Graph(int countPoints, int countEdges){
-            graph = new ArrayList[countPoints];
             graphVal = new int[countPoints][countPoints];
             finishPoint = countPoints - 1;
-            for (int i = 0; i < countPoints; i++){
-                graph[i] = new ArrayList<>();
-            }
 
             read(countEdges);
         }
@@ -34,10 +29,7 @@ public class maxflow {
                 to = in.nextInt() - 1;
                 weight = in.nextInt();
 
-                if (from != to){
-                    graph[from].add(to);
-                    graphVal[from][to] = weight;
-                }
+                graphVal[from][to] = weight;
             }
         }
 
@@ -53,7 +45,7 @@ public class maxflow {
                 int point = queue.get(0);
                 queue.remove(0);
 
-                for (int i: graph[point]){
+                for (int i = 0; i < graphVal[point].length; i++){
                     if (!used[i] && graphVal[point][i] > 0){
                         queue.add(i);
                         parent[i] = point;
@@ -62,14 +54,14 @@ public class maxflow {
                 }
             }
 
-            if (used[finishPoint])return true;
-            else return false;
+            return used[finishPoint];
         }
 
         void decreasePaths(int point, int[] parent){
             if (point == 0)return;
 
             graphVal[parent[point]][point] -= min;
+            graphVal[point][parent[point]] += min;
             decreasePaths(parent[point], parent);
         }
 
